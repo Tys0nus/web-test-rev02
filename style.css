@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Prevent scrolling */
+    background: #efb6b6c8; /* Match Three.js scene background */
+}
+
+/* Optional styling for immersive experience */
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
